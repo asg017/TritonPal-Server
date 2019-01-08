@@ -12,8 +12,9 @@ git clone https://github.com/Genjidegaulle/TritonPal-Server.git
 cd TritonPal-Server
 npm install 
 npm start 
-
 ```
+
+Now, if you edit any js files, the server will automatically restart with [nodemon](https://nodemon.io/)!
 
 Todo: 
 <ol>
